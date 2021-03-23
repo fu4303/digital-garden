@@ -4,6 +4,7 @@
 - ## books read/reading [[books]]
 - ## [[case-study]] to be done
 - ## [[doubts]]
+- ## Favorite learning [[links]] 
 
 ## parent level links to topics
 
@@ -16,6 +17,7 @@
 [books]: books.md "books"
 [case-study]: case-study.md "case-study"
 [doubts]: doubts.md "doubts"
+[links]: links.md "links"
 [spring]: spring.md "spring"
 [java]: java.md "java"
 [go]: go.md "go"
