@@ -10,6 +10,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Ankeet's backend garden`,
+    title: `Alec's backend garden`,
   },
 }
